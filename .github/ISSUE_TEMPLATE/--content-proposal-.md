@@ -69,7 +69,7 @@ Please replace the ✍️ HTML comments with your clear and concise responses.
 *Section of the site where the content would live.*
 
 <!--
-Please specify documentation placement, for example:
+For example:
 
 Documentation > Guides & Tutorials > _____
 Examples > Introduction > _____

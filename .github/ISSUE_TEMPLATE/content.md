@@ -32,7 +32,7 @@ something that is confusing or didn't work when you tried it.
 *Section of the site where the content lives (or should).*
 
 <!--
-Document placement, for example:
+For example:
 
 Documentation > Guides & Tutorials > _____
 Examples > Introduction > _____
