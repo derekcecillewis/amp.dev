@@ -2,26 +2,66 @@
 name: "\U0001F4D6 Missing or Out-of-Date Documentation"
 about: I found a gap in the docs or about pages.
 title: ''
-labels: 'Category: Content, Status: Pending Triage'
+labels: 'Status: Pending Triage, Category: Content'
 assignees: ''
 ---
 
 <!--
 Thank you for wanting to make amp.dev better.
 
-Please fill in as much of the below template as you're able.
+Please replace the ✍️ HTML comments with your clear and concise responses.
 -->
 
 ## 📖 Missing or Out-of-Date Documentation
 
-### Describe the content that is missing or outdated.  
-A clear and concise description of what content is missing, or needs updating. It could be a missing guide explaining a concept, a step-by-step tutorial, or something that is confusing or doesn't work when you tried it.
+### Problem
 
-### Please specify documentation placement.  
-In which part of the site would that content live?
+*Description of the missing or outdated content.*
 
-### What type of content is it?  
-Such as tutorial, an updated paragraph, or reference docs?
+<!--
+It could be a missing guide explaining a concept, a step-by-step tutorial, or
+something that is confusing or doesn't work when you tried it.
+-->
 
-### Optional: Propose information architecture.  
-If you have ideas on how we should structure the content, tell us!
+<!-- ✍️ -->
+
+---
+
+### Location
+
+*Section of the site where the content lives (or should).*
+
+<!--
+Please specify documentation placement, for example:
+
+Documentation > Guides & Tutorials > _____
+Examples > Introduction > _____
+-->
+
+<!-- ✍️ -->
+
+---
+
+### Content type
+
+<!--
+What kind of content is it?
+
+Please mark your selection by ensuring the below x is in the correct box below.
+-->
+
+* [ ] Guide
+* [ ] Tutorial
+* [ ] Example
+* [ ] Translation
+* [ ] Updated paragraph
+* [ ] Reference document
+* [X] Other (<!-- ✍️ Please specify if chosen -->)
+
+---
+
+### Information architecture (optional)
+
+*Structuring of the content.*
+
+<!-- ✍️ If you have ideas on how we should structure the content, tell us! -->

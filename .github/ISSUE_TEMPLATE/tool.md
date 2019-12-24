@@ -9,38 +9,83 @@ assignees: ''
 <!--
 Thank you for wanting to add a community resource to amp.dev.
 
-Please fill in as much of the below template as you're able.
+Please replace the ✍️ HTML comments with your clear and concise responses.
 -->
 
 ## 🛠️ Request to Add Third-Party Tool/Service/Platform/Vendor
 
-### 1. What's the name?  
-Insert name here
+### Resource name
 
-### 2. For which format?
-Leave relevant format(s):
-- websites
-- stories
-- ads
-- email
+*The name of your community resource.*
 
+<!-- ✍️ -->
 
-### 3. What type is it?  
-- editor 
-- service provider 
-- developer tool 
--content platform 
-- CMS 
-- ads 
-- audio/video 
-- analytics vendor 
+---
 
-### 4. What page should it appear on?  
-1. [amp.dev/support/faq/platform-and-vendor-partners](https://amp.dev/support/faq/platform-and-vendor-partners)
-2. [amp.dev/documentation/tools](https://amp.dev/documentation/tools)
+### Relevant format(s)
 
-#### 5. If you chose 1 in Step 4:  
-Please provide an image (min. 800x400 pixels) to appear on the [Tools](https://amp.dev/documentation/tools) page, as well as a short description (max. 100 characters).
+*Content format(s) your resource is applicable to.*
 
-#### 5. If you chose 2 in Step 4:  
-Please provide link(s) to your documentation page(s) on your domain and for ads, the configuration page in the [ads/](https://github.com/ampproject/amphtml/tree/master/ads) folder of the `amphtml` repository.
+<!--
+Please make selections by ensuring the below X(s) is/are in the correct box(es).
+-->
+
+* [X] Websites
+* [ ] Stories
+* [ ] Ads
+* [ ] Email
+
+---
+
+### Resource type
+
+*The kind of resource.*
+
+<!--
+Please make selections by placing X(s) in the correct box(es) below.
+-->
+
+* [ ] Editor
+* [ ] Service provider
+* [ ] Developer tool
+* [ ] Content platform
+* [ ] CMS
+* [ ] Ads
+* [ ] Audio/video
+* [ ] Analytics vendor
+* [ ] Other (<!-- ✍️ Please specify if chosen -->)
+
+---
+
+### Destination
+
+*Section of the site where the content would live.*
+
+<!--
+Please specify content placement by placing an X in the correct box below.
+-->
+
+* [ ] [Tools](https://amp.dev/documentation/tools)
+* [ ] [Supported Platforms](https://amp.dev/support/faq/platform-and-vendor-partners)
+
+---
+
+### Content contribution
+
+*Content assets you will be providing for use on amp.dev.*
+
+<!--
+>> If you chose "Tools" above,
+
+Please provide an image (min. 800x400 pixels) to appear on the Tools page, as
+well as a short description (max. 100 characters).
+Tools page URL: https://amp.dev/documentation/tools
+
+>> If you chose "Supported Platforms" above,
+
+Please provide link(s) to your documentation page(s) on your domain. For ads,
+the configuration page located in the `ads` folder of the `amphtml` repository.
+`ads` folder URL: https://github.com/ampproject/amphtml/tree/master/ads
+-->
+
+<!-- ✍️ -->

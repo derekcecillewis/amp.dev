@@ -6,30 +6,57 @@ labels: 'Status: Pending Triage, Type: Bug'
 assignees: ''
 ---
 
+## 🐛 Bug Report
+
 <!--
 Thank you for reporting a possible bug in amp.dev.
 
-Please fill in as much of the below template as you're able.
+Please replace the ✍️ HTML comments with your clear and concise responses.
 -->
 
-## 🐛 Bug Report
+- **URL**: https://amp.dev/<!-- ✍️ -->
+- **Browser**: <!-- ✍️ -->
+- **Operating System**: <!-- ✍️ -->
 
-### Current behavior  
-A clear and concise description of the bug you found in amp.dev.
+---
 
-Please also provide:
-- Page link: <insert the URL link to the amp.dev page(s) that you found the issue on>
-- (Optional) Screenshots/videos:
+### Current behavior
 
-### Expected behavior/code  
-A clear and concise description of what you expected to happen.
+*Description of the bug you found in amp.dev.*
 
-### How do we reproduce the issue?  
-Please provide the steps to reproduce the problem:
+<!-- ✍️ -->
 
-1. Step 1 to reproduce
-2. Step 2 to reproduce
-3. …
+---
 
-- What browser are you using?
-- What O/S are you using?
+### Expected behavior/code
+
+*Description of what you expected to happen.*
+
+<!-- ✍️ -->
+
+---
+
+### Reprosteps
+
+*Steps to reproduce the problem.*
+
+1. <!-- ✍️ Go to '...' -->
+2. <!-- ✍️ Click on '....' -->
+3. <!-- ✍️ Scroll down to '....' -->
+4. <!-- ✍️ See error -->
+
+---
+
+### Screenshots/videos (optional)
+
+*If applicable, screenshots/videos that help to clarify the error.*
+
+<!-- ✍️ Please include any screenshots/videos demonstrating the error. -->
+
+---
+
+### Additional context (optional)
+
+*Any other context about the problem.*
+
+<!-- ✍️ -->

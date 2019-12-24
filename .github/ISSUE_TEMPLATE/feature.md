@@ -6,22 +6,50 @@ labels: 'Status: Pending Triage, Type: Feature'
 assignees: ''
 ---
 
-<!--
-Thank you for suggesting an idea to make amp.dev better.
-
-Please fill in as much of the template below as you're able.
--->
-
 ## 🚀 Feature Request
 
-**Is your feature request related to a problem? Please describe.**  
-A clear and concise description of what the problem is. Ex. I have an issue when [...]
+<!--
+Thank you for suggesting an idea to help make amp.dev better.
 
-**Describe the solution you'd like.**  
-A clear and concise description of what is desired, including any potential drawbacks.
+Please replace the ✍️ HTML comments with your clear and concise responses.
+-->
 
-**Describe alternatives you've considered.**  
-A clear and concise description of any alternative solutions or features you've found.
+### Problem
 
-**Optional: Teachability, Documentation, Adoption, Migration Strategy**  
-An explanation of how users will be able to use the proposed feature, potentially including screenshots or designs.
+*Description of the problem or missing capability.*
+
+<!-- ✍️ -->
+
+---
+
+### Solution
+
+*Description of the solution including any potential drawbacks.*
+
+<!-- ✍️ -->
+
+---
+
+### Alternatives
+
+*Description of any alternative solutions or features you've found.*
+
+<!-- ✍️ -->
+
+---
+
+### Usage details
+
+*Explanation of how users will be able to use the proposed feature.*
+
+<!-- ✍️ -->
+
+<!-- Please include any screenshots or designs that may help clarify. -->
+
+---
+
+### Additional information (optional)
+
+*Info. on teachability, documentation, adoption, and migration strategy.*
+
+<!-- ✍️ -->
