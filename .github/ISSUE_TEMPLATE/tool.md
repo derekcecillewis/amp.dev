@@ -75,7 +75,7 @@ well as a short description (max. 100 characters).
 
 * Tools page URL: https://amp.dev/documentation/tools
 
-If you chose "Tools" above,If you chose "Supported Platforms" above,
+If you chose "Supported Platforms" above,
 please provide link(s) to your documentation page(s) on your domain. For ads,
 the configuration page located in the `ads` folder of the `amphtml` repository.
 
