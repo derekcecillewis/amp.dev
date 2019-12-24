@@ -36,7 +36,7 @@ Please replace the ✍️ HTML comments with your clear and concise responses.
 
 ---
 
-### Reprosteps
+### Reproduction procedure
 
 *Steps to reproduce the problem.*
 
@@ -49,9 +49,9 @@ Please replace the ✍️ HTML comments with your clear and concise responses.
 
 ### Screenshots/videos (optional)
 
-*If applicable, screenshots/videos that help to clarify the error.*
+*Applicable screenshots/videos demonstrating the error.*
 
-<!-- ✍️ Please include any screenshots/videos demonstrating the error. -->
+<!-- ✍️ -->
 
 ---
 

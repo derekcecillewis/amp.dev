@@ -26,9 +26,7 @@ Please replace the ✍️ HTML comments with your clear and concise responses.
 
 ### Purpose
 
-*How this piece will help the target audience.*
-
-<!-- Can be a 1–2 sentence summary from the GitHub issue. -->
+*1–2 sentence summary of how this piece will help the target audience.*
 
 <!-- ✍️ -->
 
@@ -44,17 +42,15 @@ Please replace the ✍️ HTML comments with your clear and concise responses.
 
 ### Content type
 
-<!--
-What kind of content is it?
+*What kind of content is it?*
 
-Please mark your selection by ensuring the below "x" is in the correct box.
--->
+<!-- ✍️ Use an [X] to mark your selection below. -->
 
 * [ ] Guide
 * [ ] Tutorial
 * [ ] Example
 * [ ] Translation
-* [X] Other (<!-- ✍️ Please specify if chosen -->)
+* [ ] Other (<!-- ✍️ Please specify if chosen -->)
 
 ---
 
@@ -83,15 +79,9 @@ Examples > Introduction > _____
 
 ---
 
-### Process
+### Progress
 
-<!--
-How far along in the process is your content?
-
-Please mark selections by ensuring the below X(s) is/are in the correct box(es).
-
-When you’ve finished, add the link to this issue and mark the box for step one.
--->
+<!-- ✍️  Use an [X] to mark your selection(s) below. -->
 
 * [X] 1. Proposal created
 * [ ] 2. Proposal approved
@@ -107,7 +97,8 @@ When you’ve finished, add the link to this issue and mark the box for step one
 <!--
 Write your draft here once the AMP team has approved your content proposal.
 
-A member of the AMP team will assign the ticket to themselves and work as your reviewer through the remaining steps. Thanks for contributing to AMP!
+A member of the AMP team will assign the ticket to themselves and work as your
+reviewer through the remaining steps. Thanks for contributing to AMP!
 
 To make the draft easy to migrate to the site, consider composing in Markdown.
 -->

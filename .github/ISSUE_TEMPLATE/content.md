@@ -19,8 +19,8 @@ Please replace the ✍️ HTML comments with your clear and concise responses.
 *Description of the missing or outdated content.*
 
 <!--
-It could be a missing guide explaining a concept, a step-by-step tutorial, or
-something that is confusing or doesn't work when you tried it.
+For example, a missing guide explaining a concept, a step-by-step tutorial, or
+something that is confusing or didn't work when you tried it.
 -->
 
 <!-- ✍️ -->
@@ -32,7 +32,7 @@ something that is confusing or doesn't work when you tried it.
 *Section of the site where the content lives (or should).*
 
 <!--
-Please specify documentation placement, for example:
+Document placement, for example:
 
 Documentation > Guides & Tutorials > _____
 Examples > Introduction > _____
@@ -44,11 +44,7 @@ Examples > Introduction > _____
 
 ### Content type
 
-<!--
-What kind of content is it?
-
-Please mark your selection by ensuring the below x is in the correct box below.
--->
+<!-- ✍️ Use an [X] to mark your selection below. -->
 
 * [ ] Guide
 * [ ] Tutorial
@@ -56,12 +52,10 @@ Please mark your selection by ensuring the below x is in the correct box below.
 * [ ] Translation
 * [ ] Updated paragraph
 * [ ] Reference document
-* [X] Other (<!-- ✍️ Please specify if chosen -->)
+* [ ] Other (<!-- ✍️ Please specify if chosen -->)
 
 ---
 
 ### Information architecture (optional)
-
-*Structuring of the content.*
 
 <!-- ✍️ If you have ideas on how we should structure the content, tell us! -->

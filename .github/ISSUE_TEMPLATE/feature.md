@@ -44,7 +44,9 @@ Please replace the ✍️ HTML comments with your clear and concise responses.
 
 <!-- ✍️ -->
 
-<!-- Please include any screenshots or designs that may help clarify. -->
+*Applicable screenshots/videos demonstrating the feature.*
+
+<!-- ✍️ -->
 
 ---
 
