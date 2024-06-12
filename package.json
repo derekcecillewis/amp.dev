@@ -89,7 +89,7 @@
 		"joi": "17.4.2",
 		"js-yaml": "4.1.0",
 		"json-tree-view": "0.4.12",
-		"linkifyjs": "2.1.9",
+		"linkifyjs": "3.0.5",
 		"lru-cache": "6.0.0",
 		"merge2": "1.4.1",
 		"middy": "0.36.0",
